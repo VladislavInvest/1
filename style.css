@@ -1,0 +1,6 @@
+@keyframes fon{
+    33% {background-color: pink;}
+}
+body {
+    animation: fon 5s infinite 1s ease-in-out;
+}
